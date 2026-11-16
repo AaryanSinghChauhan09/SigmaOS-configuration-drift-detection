@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-configuration-drift-detection"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS configuration-drift-detection component - declarative_config"
+
+[lib]
+name = "configuration_drift_detection"
+path = "src/lib.rs"
