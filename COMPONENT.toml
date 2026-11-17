@@ -3,7 +3,7 @@ name = "SigmaOS-configuration-drift-detection"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "configuration-drift-detection component"
+description = "Configuration Drift Detection"
 upstream = []
 
 [contract]
